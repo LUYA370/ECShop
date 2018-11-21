@@ -35,16 +35,7 @@ if (Object.prototype.toJSONString){
   </div>
   <div class="index-banner"><?php echo $this->fetch('library/index_banner.lbi'); ?> </div>
 </div>
-<div class="indexpage clearfix index-ad">
-  <div class="ad-tg">
-    
-<?php $this->assign('ads_id','4'); ?><?php $this->assign('ads_num','1'); ?><?php echo $this->fetch('library/ad_position.lbi'); ?>
 
-  </div>
-  <div class="ad-lb">
-    <?php echo $this->fetch('library/index_lad.lbi'); ?>
-  </div>
-</div>
 <div class="index-body">
   <div class="indexpage">
     <div class="body-goods">

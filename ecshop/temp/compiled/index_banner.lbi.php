@@ -26,30 +26,9 @@
     </style>
 <div class="swiper-container swiper1">
         <div class="swiper-wrapper">
-            <div class="swiper-slide"><?php 
-$k = array (
-  'name' => 'ads',
-  'id' => '1',
-  'num' => '1',
-);
-echo $this->_echash . $k['name'] . '|' . serialize($k) . $this->_echash;
-?></div>
-            <div class="swiper-slide"><?php 
-$k = array (
-  'name' => 'ads',
-  'id' => '2',
-  'num' => '1',
-);
-echo $this->_echash . $k['name'] . '|' . serialize($k) . $this->_echash;
-?></div>
-            <div class="swiper-slide"><?php 
-$k = array (
-  'name' => 'ads',
-  'id' => '3',
-  'num' => '1',
-);
-echo $this->_echash . $k['name'] . '|' . serialize($k) . $this->_echash;
-?></div>
+            <div class="swiper-slide"><img src="./././data/afficheimg/20161114prfywc.jpg" width="970" height="460"/></div>
+            <div class="swiper-slide"><img src="./././data/afficheimg/20161114ypdlyr.jpg" width="970" height="460"/></div>
+            <div class="swiper-slide"><img src="./././data/afficheimg/20161114nraqzu.jpg" width="970" height="460"/></div>
         </div>
         
         <div class="swiper-pagination"></div>

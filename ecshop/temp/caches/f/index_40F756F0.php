@@ -1,4 +1,4 @@
-<?php exit;?>a:3:{s:8:"template";a:12:{i:0;s:73:"D:/Program Files/phpstudy/PHPTutorial/WWW/ecshop/themes/default/index.dwt";i:1;s:87:"D:/Program Files/phpstudy/PHPTutorial/WWW/ecshop/themes/default/library/page_header.lbi";i:2;s:95:"D:/Program Files/phpstudy/PHPTutorial/WWW/ecshop/themes/default/library/index_category_tree.lbi";i:3;s:88:"D:/Program Files/phpstudy/PHPTutorial/WWW/ecshop/themes/default/library/index_banner.lbi";i:4;s:87:"D:/Program Files/phpstudy/PHPTutorial/WWW/ecshop/themes/default/library/ad_position.lbi";i:5;s:85:"D:/Program Files/phpstudy/PHPTutorial/WWW/ecshop/themes/default/library/index_lad.lbi";i:6;s:81:"D:/Program Files/phpstudy/PHPTutorial/WWW/ecshop/themes/default/library/f1_ad.lbi";i:7;s:85:"D:/Program Files/phpstudy/PHPTutorial/WWW/ecshop/themes/default/library/cat_goods.lbi";i:8;s:81:"D:/Program Files/phpstudy/PHPTutorial/WWW/ecshop/themes/default/library/f2_ad.lbi";i:9;s:81:"D:/Program Files/phpstudy/PHPTutorial/WWW/ecshop/themes/default/library/f3_ad.lbi";i:10;s:89:"D:/Program Files/phpstudy/PHPTutorial/WWW/ecshop/themes/default/library/recommend_hot.lbi";i:11;s:87:"D:/Program Files/phpstudy/PHPTutorial/WWW/ecshop/themes/default/library/page_footer.lbi";}s:7:"expires";i:1542791585;s:8:"maketime";i:1542787985;}<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<?php exit;?>a:3:{s:8:"template";a:10:{i:0;s:73:"D:/Program Files/phpstudy/PHPTutorial/WWW/ecshop/themes/default/index.dwt";i:1;s:87:"D:/Program Files/phpstudy/PHPTutorial/WWW/ecshop/themes/default/library/page_header.lbi";i:2;s:95:"D:/Program Files/phpstudy/PHPTutorial/WWW/ecshop/themes/default/library/index_category_tree.lbi";i:3;s:88:"D:/Program Files/phpstudy/PHPTutorial/WWW/ecshop/themes/default/library/index_banner.lbi";i:4;s:81:"D:/Program Files/phpstudy/PHPTutorial/WWW/ecshop/themes/default/library/f1_ad.lbi";i:5;s:85:"D:/Program Files/phpstudy/PHPTutorial/WWW/ecshop/themes/default/library/cat_goods.lbi";i:6;s:81:"D:/Program Files/phpstudy/PHPTutorial/WWW/ecshop/themes/default/library/f2_ad.lbi";i:7;s:81:"D:/Program Files/phpstudy/PHPTutorial/WWW/ecshop/themes/default/library/f3_ad.lbi";i:8;s:89:"D:/Program Files/phpstudy/PHPTutorial/WWW/ecshop/themes/default/library/recommend_hot.lbi";i:9;s:87:"D:/Program Files/phpstudy/PHPTutorial/WWW/ecshop/themes/default/library/page_footer.lbi";}s:7:"expires";i:1542820314;s:8:"maketime";i:1542816714;}<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta name="Generator" content="ECSHOP v4.0.0" />
@@ -37,21 +37,375 @@ var process_request = "正在处理您的请求...";
       <div class="m_left">
       <ul>
         <li><a href="index.php" class="cur">首页</a></li>
-                        <li><a href="category.php?id=16" 
-        
-                    >服装</a></li>
-                                        <li><a href="category.php?id=22" 
+                        <li><a href="category.php?id=22" 
         
                     >移动电源</a></li>
                                         <li><a href="category.php?id=25" 
         
                     >数码时尚</a></li>
-                                        <li><a href="category.php?id=26" 
+                                        <li><a href="category.php?id=46" 
         
-                    >家用电器</a></li>
-                                        <li><a href="category.php?id=25" 
+                    >健康 儿童</a></li>
+                                        <li><a href="category.php?id=47" 
         
-                    >数码时尚</a></li>
+                    >苹果</a></li>
+                                        <li><a href="category.php?id=48" 
+        
+                    >OPPO</a></li>
+                                        <li><a href="category.php?id=49" 
+        
+                    >vivo</a></li>
+                                        <li><a href="category.php?id=50" 
+        
+                    >华为</a></li>
+                                        <li><a href="category.php?id=51" 
+        
+                    >联想</a></li>
+                                        <li><a href="category.php?id=52" 
+        
+                    >小米</a></li>
+                                        <li><a href="category.php?id=39" 
+        
+                    >笔记本 平板</a></li>
+                                        <li><a href="category.php?id=40" 
+        
+                    >戴尔</a></li>
+                                        <li><a href="category.php?id=41" 
+        
+                    >家电 插线板</a></li>
+                                        <li><a href="category.php?id=42" 
+        
+                    >出行 穿戴</a></li>
+                                        <li><a href="category.php?id=43" 
+        
+                    >电源 配件</a></li>
+                                        <li><a href="category.php?id=44" 
+        
+                    >耳机 音箱</a></li>
+                                        <li><a href="category.php?id=36" 
+        
+                    >手机 电话卡</a></li>
+                                        <li><a href="category.php?id=37" 
+        
+                    >电视 盒子</a></li>
+                                        <li><a href="category.php?id=38" 
+        
+                    >华为</a></li>
+                                        <li><a href="category.php?id=33" 
+        
+                    >数码相机</a></li>
+                                        <li><a href="category.php?id=53" 
+        
+                    >激光投影电视</a></li>
+                                        <li><a href="category.php?id=54" 
+        
+                    >魅族</a></li>
+                                        <li><a href="category.php?id=55" 
+        
+                    >惠普</a></li>
+                                        <li><a href="category.php?id=56" 
+        
+                    >华硕</a></li>
+                                        <li><a href="category.php?id=57" 
+        
+                    >空调</a></li>
+                                        <li><a href="category.php?id=58" 
+        
+                    >小米</a></li>
+                                        <li><a href="category.php?id=59" 
+        
+                    >冰箱</a></li>
+                                        <li><a href="category.php?id=60" 
+        
+                    >海信</a></li>
+                                        <li><a href="category.php?id=61" 
+        
+                    >创维</a></li>
+                                        <li><a href="category.php?id=63" 
+        
+                    >长虹</a></li>
+                                        <li><a href="category.php?id=64" 
+        
+                    >移动</a></li>
+                                        <li><a href="category.php?id=65" 
+        
+                    >海尔</a></li>
+                                        <li><a href="category.php?id=66" 
+        
+                    >索尼</a></li>
+                                        <li><a href="category.php?id=67" 
+        
+                    >电信</a></li>
+                                        <li><a href="category.php?id=68" 
+        
+                    >夏普</a></li>
+                                        <li><a href="category.php?id=69" 
+        
+                    >联通</a></li>
+                                        <li><a href="category.php?id=70" 
+        
+                    >松下</a></li>
+                                        <li><a href="category.php?id=71" 
+        
+                    >酷开</a></li>
+                                        <li><a href="category.php?id=72" 
+        
+                    >净水器</a></li>
+                                        <li><a href="category.php?id=73" 
+        
+                    >康佳</a></li>
+                                        <li><a href="category.php?id=74" 
+        
+                    >充电器</a></li>
+                                        <li><a href="category.php?id=76" 
+        
+                    >厨房用具</a></li>
+                                        <li><a href="category.php?id=77" 
+        
+                    >移动电源</a></li>
+                                        <li><a href="category.php?id=78" 
+        
+                    >空气净化器</a></li>
+                                        <li><a href="category.php?id=79" 
+        
+                    >LG</a></li>
+                                        <li><a href="category.php?id=80" 
+        
+                    >电水壶</a></li>
+                                        <li><a href="category.php?id=81" 
+        
+                    >手机壳</a></li>
+                                        <li><a href="category.php?id=82" 
+        
+                    >料理机</a></li>
+                                        <li><a href="category.php?id=83" 
+        
+                    >手机支架</a></li>
+                                        <li><a href="category.php?id=84" 
+        
+                    >滤水壶</a></li>
+                                        <li><a href="category.php?id=85" 
+        
+                    >其他</a></li>
+                                        <li><a href="category.php?id=86" 
+        
+                    >自拍杆</a></li>
+                                        <li><a href="category.php?id=87" 
+        
+                    >电磁炉</a></li>
+                                        <li><a href="category.php?id=88" 
+        
+                    >数据线</a></li>
+                                        <li><a href="category.php?id=89" 
+        
+                    >存储卡</a></li>
+                                        <li><a href="category.php?id=90" 
+        
+                    >扫地机器人</a></li>
+                                        <li><a href="category.php?id=91" 
+        
+                    >手环手表</a></li>
+                                        <li><a href="category.php?id=92" 
+        
+                    >手机膜</a></li>
+                                        <li><a href="category.php?id=93" 
+        
+                    >VR</a></li>
+                                        <li><a href="category.php?id=94" 
+        
+                    >平衡车</a></li>
+                                        <li><a href="category.php?id=95" 
+        
+                    >平板配件</a></li>
+                                        <li><a href="category.php?id=96" 
+        
+                    >滑板车</a></li>
+                                        <li><a href="category.php?id=97" 
+        
+                    >电池</a></li>
+                                        <li><a href="category.php?id=98" 
+        
+                    >自行车</a></li>
+                                        <li><a href="category.php?id=99" 
+        
+                    >线控耳机</a></li>
+                                        <li><a href="category.php?id=100" 
+        
+                    >蓝牙耳机</a></li>
+                                        <li><a href="category.php?id=101" 
+        
+                    >车充</a></li>
+                                        <li><a href="category.php?id=102" 
+        
+                    >车载逆变器</a></li>
+                                        <li><a href="category.php?id=103" 
+        
+                    >头戴耳机</a></li>
+                                        <li><a href="category.php?id=104" 
+        
+                    >品牌耳机</a></li>
+                                        <li><a href="category.php?id=105" 
+        
+                    >无线充</a></li>
+                                        <li><a href="category.php?id=106" 
+        
+                    >平衡车配件</a></li>
+                                        <li><a href="category.php?id=107" 
+        
+                    >智能后视镜</a></li>
+                                        <li><a href="category.php?id=108" 
+        
+                    >车载空气净化器</a></li>
+                                        <li><a href="category.php?id=109" 
+        
+                    >蓝牙音箱</a></li>
+                                        <li><a href="category.php?id=110" 
+        
+                    >洗手机</a></li>
+                                        <li><a href="category.php?id=111" 
+        
+                    >剃须刀</a></li>
+                                        <li><a href="category.php?id=112" 
+        
+                    >双肩包</a></li>
+                                        <li><a href="category.php?id=113" 
+        
+                    >牙刷</a></li>
+                                        <li><a href="category.php?id=114" 
+        
+                    >单肩包</a></li>
+                                        <li><a href="category.php?id=115" 
+        
+                    >三星</a></li>
+                                        <li><a href="category.php?id=116" 
+        
+                    >电脑包</a></li>
+                                        <li><a href="category.php?id=117" 
+        
+                    >体重秤</a></li>
+                                        <li><a href="category.php?id=118" 
+        
+                    >旅行箱</a></li>
+                                        <li><a href="category.php?id=120" 
+        
+                    >血压计</a></li>
+                                        <li><a href="category.php?id=121" 
+        
+                    >运动鞋</a></li>
+                                        <li><a href="category.php?id=122" 
+        
+                    >体温计</a></li>
+                                        <li><a href="category.php?id=123" 
+        
+                    >口罩</a></li>
+                                        <li><a href="category.php?id=124" 
+        
+                    >眼镜</a></li>
+                                        <li><a href="category.php?id=125" 
+        
+                    >儿童手表</a></li>
+                                        <li><a href="category.php?id=126" 
+        
+                    >男士T恤</a></li>
+                                        <li><a href="category.php?id=127" 
+        
+                    >儿童书包</a></li>
+                                        <li><a href="category.php?id=128" 
+        
+                    >男士下装</a></li>
+                                        <li><a href="category.php?id=129" 
+        
+                    >早教启智</a></li>
+                                        <li><a href="category.php?id=130" 
+        
+                    >连衣裙</a></li>
+                                        <li><a href="category.php?id=131" 
+        
+                    >羽绒服</a></li>
+                                        <li><a href="category.php?id=132" 
+        
+                    >益智积木</a></li>
+                                        <li><a href="category.php?id=133" 
+        
+                    >遥控电动</a></li>
+                                        <li><a href="category.php?id=134" 
+        
+                    >儿童滑板车</a></li>
+                                        <li><a href="category.php?id=135" 
+        
+                    >围巾</a></li>
+                                        <li><a href="category.php?id=136" 
+        
+                    >小米</a></li>
+                                        <li><a href="category.php?id=137" 
+        
+                    >牛仔裤</a></li>
+                                        <li><a href="category.php?id=138" 
+        
+                    >移动</a></li>
+                                        <li><a href="category.php?id=139" 
+        
+                    >床垫</a></li>
+                                        <li><a href="category.php?id=141" 
+        
+                    >枕头</a></li>
+                                        <li><a href="category.php?id=142" 
+        
+                    >被子</a></li>
+                                        <li><a href="category.php?id=144" 
+        
+                    >电信</a></li>
+                                        <li><a href="category.php?id=146" 
+        
+                    >TinkPad</a></li>
+                                        <li><a href="category.php?id=147" 
+        
+                    >联通</a></li>
+                                        <li><a href="category.php?id=148" 
+        
+                    >其他</a></li>
+                                        <li><a href="category.php?id=149" 
+        
+                    >苹果</a></li>
+                                        <li><a href="category.php?id=150" 
+        
+                    >诺基亚</a></li>
+                                        <li><a href="category.php?id=151" 
+        
+                    >其他</a></li>
+                                        <li><a href="category.php?id=152" 
+        
+                    >其它</a></li>
+                                        <li><a href="category.php?id=153" 
+        
+                    >其它</a></li>
+                                        <li><a href="category.php?id=154" 
+        
+                    >其他</a></li>
+                                        <li><a href="category.php?id=155" 
+        
+                    >其它</a></li>
+                                        <li><a href="category.php?id=156" 
+        
+                    >其他</a></li>
+                                        <li><a href="category.php?id=157" 
+        
+                    >其他</a></li>
+                                        <li><a href="category.php?id=158" 
+        
+                    >其他</a></li>
+                                        <li><a href="category.php?id=159" 
+        
+                    >数码</a></li>
+                                        <li><a href="category.php?id=160" 
+        
+                    >女装</a></li>
+                                        <li><a href="category.php?id=161" 
+        
+                    >其他</a></li>
+                                        <li><a href="category.php?id=162" 
+        
+                    >自拍杆</a></li>
                               </ul>
       </div>
     </div>
@@ -84,82 +438,390 @@ if (Object.prototype.toJSONString){
 <div class="category_info">
   <div id="category_tree">
         <div class="cat-box">
-      <div class="cat1"><a href="category.php?id=26">家用电器</a></div>
+      <div class="cat1"><a href="category.php?id=36">手机 电话卡</a></div>
             <div class="cat2-box">
       
                 <div class="cat2 clearfix">
-          <a class="cat2-link" href="category.php?id=27">大家电</a>
-                    <div class="cat3-block"></div>
-          <div class="cat3-box">
-            
-                          <a href="category.php?id=28">平板电脑</a>&nbsp;&nbsp;
-                          <a href="category.php?id=29">家用空调</a>&nbsp;&nbsp;
-                          <a href="category.php?id=30">家电配件</a>&nbsp;&nbsp;
-                          <a href="category.php?id=31">洗衣机</a>&nbsp;&nbsp;
-                          <a href="category.php?id=32">冰箱</a>&nbsp;&nbsp;
-                      </div>
+          <a class="cat2-link" href="category.php?id=38">华为</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=47">苹果</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=48">OPPO</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=49">vivo</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=52">小米</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=54">魅族</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=115">三星</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=119">锤子</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=138">移动</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=144">电信</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=147">联通</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=148">其他</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=150">诺基亚</a>
                   </div>
                 
       </div>
       
     </div>
         <div class="cat-box">
-      <div class="cat1"><a href="category.php?id=25">数码时尚</a></div>
-      
-    </div>
-        <div class="cat-box">
-      <div class="cat1"><a href="category.php?id=18">智能硬件</a></div>
-      
-    </div>
-        <div class="cat-box">
-      <div class="cat1"><a href="category.php?id=22">移动电源</a></div>
-      
-    </div>
-        <div class="cat-box">
-      <div class="cat1"><a href="category.php?id=1">手机类型</a></div>
+      <div class="cat1"><a href="category.php?id=37">电视 盒子</a></div>
             <div class="cat2-box">
       
                 <div class="cat2 clearfix">
-          <a class="cat2-link" href="category.php?id=3">小型手机</a>
+          <a class="cat2-link" href="category.php?id=53">激光投影电视</a>
                   </div>
                 <div class="cat2 clearfix">
-          <a class="cat2-link" href="category.php?id=4">3G手机</a>
+          <a class="cat2-link" href="category.php?id=58">小米</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=60">海信</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=62">TCL</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=65">海尔</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=66">索尼</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=68">夏普</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=70">松下</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=73">康佳</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=75">三星</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=79">LG</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=85">其他</a>
                   </div>
                 
       </div>
       
     </div>
         <div class="cat-box">
-      <div class="cat1"><a href="category.php?id=6">手机</a></div>
+      <div class="cat1"><a href="category.php?id=39">笔记本 平板</a></div>
             <div class="cat2-box">
       
                 <div class="cat2 clearfix">
-          <a class="cat2-link" href="category.php?id=8">耳机</a>
+          <a class="cat2-link" href="category.php?id=40">戴尔</a>
                   </div>
                 <div class="cat2 clearfix">
-          <a class="cat2-link" href="category.php?id=9">电池</a>
+          <a class="cat2-link" href="category.php?id=51">联想</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=55">惠普</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=56">华硕</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=136">小米</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=146">TinkPad</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=149">苹果</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=158">其他</a>
                   </div>
                 
       </div>
       
     </div>
         <div class="cat-box">
-      <div class="cat1"><a href="category.php?id=12">充值卡</a></div>
-      
-    </div>
-        <div class="cat-box">
-      <div class="cat1"><a href="category.php?id=16">服装</a></div>
-      
-    </div>
-        <div class="cat-box">
-      <div class="cat1"><a href="category.php?id=19">配件</a></div>
+      <div class="cat1"><a href="category.php?id=41">家电 插线板</a></div>
             <div class="cat2-box">
       
                 <div class="cat2 clearfix">
-          <a class="cat2-link" href="category.php?id=24">数码时尚</a>
+          <a class="cat2-link" href="category.php?id=57">空调</a>
                   </div>
                 <div class="cat2 clearfix">
-          <a class="cat2-link" href="category.php?id=20">保护壳</a>
+          <a class="cat2-link" href="category.php?id=59">冰箱</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=72">净水器</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=76">厨房用具</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=78">空气净化器</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=80">电水壶</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=82">料理机</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=84">滤水壶</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=87">电磁炉</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=90">扫地机器人</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=156">其他</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=159">数码</a>
+                  </div>
+                
+      </div>
+      
+    </div>
+        <div class="cat-box">
+      <div class="cat1"><a href="category.php?id=42">出行 穿戴</a></div>
+            <div class="cat2-box">
+      
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=91">手环手表</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=93">VR</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=94">平衡车</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=96">滑板车</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=98">自行车</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=102">车载逆变器</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=106">平衡车配件</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=107">智能后视镜</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=108">车载空气净化器</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=118">旅行箱</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=154">其他</a>
+                  </div>
+                
+      </div>
+      
+    </div>
+        <div class="cat-box">
+      <div class="cat1"><a href="category.php?id=43">电源 配件</a></div>
+            <div class="cat2-box">
+      
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=74">充电器</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=77">移动电源</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=81">手机壳</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=83">手机支架</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=88">数据线</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=89">存储卡</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=92">手机膜</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=95">平板配件</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=97">电池</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=101">车充</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=105">无线充</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=155">其他</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=162">自拍杆</a>
+                  </div>
+                
+      </div>
+      
+    </div>
+        <div class="cat-box">
+      <div class="cat1"><a href="category.php?id=44">耳机 音箱</a></div>
+            <div class="cat2-box">
+      
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=99">线控耳机</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=100">蓝牙耳机</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=103">头戴耳机</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=104">品牌耳机</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=109">蓝牙音箱</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=161">其他</a>
+                  </div>
+                
+      </div>
+      
+    </div>
+        <div class="cat-box">
+      <div class="cat1"><a href="category.php?id=45">生活 服装</a></div>
+            <div class="cat2-box">
+      
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=112">双肩包</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=114">单肩包</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=116">电脑包</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=121">运动鞋</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=123">口罩</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=124">眼镜</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=126">男士T恤</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=128">男士下装</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=130">连衣裙</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=131">羽绒服</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=135">围巾</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=137">牛仔裤</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=139">床垫</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=141">枕头</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=142">被子</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=143">沙发</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=151">其他</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=160">女装</a>
+                  </div>
+                
+      </div>
+      
+    </div>
+        <div class="cat-box">
+      <div class="cat1"><a href="category.php?id=46">健康 儿童</a></div>
+            <div class="cat2-box">
+      
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=110">洗手机</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=111">剃须刀</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=113">牙刷</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=117">体重秤</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=120">血压计</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=122">体温计</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=125">儿童手表</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=127">儿童书包</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=129">早教启智</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=132">益智积木</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=133">遥控电动</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=134">儿童滑板车</a>
+                  </div>
+                <div class="cat2 clearfix">
+          <a class="cat2-link" href="category.php?id=153">其他</a>
                   </div>
                 
       </div>
@@ -199,9 +861,9 @@ if (Object.prototype.toJSONString){
     </style>
 <div class="swiper-container swiper1">
         <div class="swiper-wrapper">
-            <div class="swiper-slide">45ea207d7a2b68c49582d2d22adf953aads|a:3:{s:4:"name";s:3:"ads";s:2:"id";s:1:"1";s:3:"num";s:1:"1";}45ea207d7a2b68c49582d2d22adf953a</div>
-            <div class="swiper-slide">45ea207d7a2b68c49582d2d22adf953aads|a:3:{s:4:"name";s:3:"ads";s:2:"id";s:1:"2";s:3:"num";s:1:"1";}45ea207d7a2b68c49582d2d22adf953a</div>
-            <div class="swiper-slide">45ea207d7a2b68c49582d2d22adf953aads|a:3:{s:4:"name";s:3:"ads";s:2:"id";s:1:"3";s:3:"num";s:1:"1";}45ea207d7a2b68c49582d2d22adf953a</div>
+            <div class="swiper-slide"><img src="./././data/afficheimg/20161114prfywc.jpg" width="970" height="460"/></div>
+            <div class="swiper-slide"><img src="./././data/afficheimg/20161114ypdlyr.jpg" width="970" height="460"/></div>
+            <div class="swiper-slide"><img src="./././data/afficheimg/20161114nraqzu.jpg" width="970" height="460"/></div>
         </div>
         
         <div class="swiper-pagination"></div>
@@ -220,66 +882,6 @@ if (Object.prototype.toJSONString){
        });
 </script> </div>
 </div>
-<div class="indexpage clearfix index-ad">
-  <div class="ad-tg">
-    
-45ea207d7a2b68c49582d2d22adf953aads|a:3:{s:4:"name";s:3:"ads";s:2:"id";s:1:"4";s:3:"num";s:1:"1";}45ea207d7a2b68c49582d2d22adf953a
-  </div>
-  <div class="ad-lb">
-     
- <style>
-    .swiper-container.swiper2 {
-        width: 100%;
-        height: auto;
-        margin-left: auto;
-        margin-right: auto;
-        overflow:hidden;
-    }
-    .swiper2 .swiper-slide {
-        text-align: center;
-        font-size: 18px;
-        background: #fff;
-        height: 200px;
-        
-        /* Center slide text vertically */
-        display: -webkit-box;
-        display: -ms-flexbox;
-        display: -webkit-flex;
-        display: flex;
-        -webkit-box-pack: center;
-        -ms-flex-pack: center;
-        -webkit-justify-content: center;
-        justify-content: center;
-        -webkit-box-align: center;
-        -ms-flex-align: center;
-        -webkit-align-items: center;
-        align-items: center;
-    }
-    </style>
-<div class="swiper-container swiper2">
-        <div class="swiper-wrapper">
-            <div class="swiper-slide">45ea207d7a2b68c49582d2d22adf953aads|a:3:{s:4:"name";s:3:"ads";s:2:"id";s:1:"5";s:3:"num";s:1:"1";}45ea207d7a2b68c49582d2d22adf953a</div>
-            <div class="swiper-slide">45ea207d7a2b68c49582d2d22adf953aads|a:3:{s:4:"name";s:3:"ads";s:2:"id";s:1:"6";s:3:"num";s:1:"1";}45ea207d7a2b68c49582d2d22adf953a</div>
-            <div class="swiper-slide">45ea207d7a2b68c49582d2d22adf953aads|a:3:{s:4:"name";s:3:"ads";s:2:"id";s:1:"7";s:3:"num";s:1:"1";}45ea207d7a2b68c49582d2d22adf953a</div>
-            <div class="swiper-slide">45ea207d7a2b68c49582d2d22adf953aads|a:3:{s:4:"name";s:3:"ads";s:2:"id";s:1:"8";s:3:"num";s:1:"1";}45ea207d7a2b68c49582d2d22adf953a</div>
-        </div>
-        
-        <div class="swiper-pagination"></div>
-        
-        <div class="swiper-button-next"></div>
-        <div class="swiper-button-prev"></div>
-    </div>
-<script>
-    var swiper = new Swiper('.swiper2', {
-        nextButton: '.swiper-button-next',
-        prevButton: '.swiper-button-prev',
-        slidesPerView: 4,
-        paginationClickable: true,
-        spaceBetween: 0,
-        loop:true
-    });
-</script>  </div>
-</div>
 <div class="index-body">
   <div class="indexpage">
     <div class="body-goods">
@@ -291,70 +893,6 @@ if (Object.prototype.toJSONString){
         <div class="goods-right">
             
 <div class="all_ms">
-    <a class="goodsItem" href="goods.php?id=72"> <div  class="img-box"><img src="images/201605/thumb_img/72_thumb_G_1462956048008.jpg" alt="智能相机" class="goodsimg" /></div>
-  <div class="goods-brief"></div>
-    <div class="gos-title">智能相机</div> 
-	<div class="prices">
-	        <font class="shop_s"><b>￥149元</b></font>
-    	</div>
-	 
-  </a>
-    <a class="goodsItem" href="goods.php?id=70"> <div  class="img-box"><img src="images/201605/thumb_img/70_thumb_G_1462955414561.jpg" alt="炫彩翻页保护套" class="goodsimg" /></div>
-  <div class="goods-brief"></div>
-    <div class="gos-title">炫彩翻页保护套</div> 
-	<div class="prices">
-	        <font class="shop_s"><b>￥39元</b></font>
-    	</div>
-	 
-  </a>
-    <a class="goodsItem" href="goods.php?id=69"> <div  class="img-box"><img src="images/201605/thumb_img/69_thumb_G_1462955300971.jpg" alt="平衡车" class="goodsimg" /></div>
-  <div class="goods-brief"></div>
-    <div class="gos-title">平衡车</div> 
-	<div class="prices">
-	        <font class="shop_s"><b>￥1999元</b></font>
-    	</div>
-	 
-  </a>
-    <a class="goodsItem" href="goods.php?id=68"> <div  class="img-box"><img src="images/201605/thumb_img/68_thumb_G_1462955204381.jpg" alt="透明超薄软胶保护套" class="goodsimg" /></div>
-  <div class="goods-brief"></div>
-    <div class="gos-title">透明超薄软胶保...</div> 
-	<div class="prices">
-	        <font class="shop_s"><b>￥19元</b></font>
-    	</div>
-	 
-  </a>
-    <a class="goodsItem" href="goods.php?id=64"> <div  class="img-box"><img src="images/201605/thumb_img/64_thumb_G_1462952811633.jpg" alt="运动相机" class="goodsimg" /></div>
-  <div class="goods-brief"></div>
-    <div class="gos-title">运动相机</div> 
-	<div class="prices">
-	        <font class="shop_s"><b>￥399元</b></font>
-    	</div>
-	 
-  </a>
-    <a class="goodsItem" href="goods.php?id=63"> <div  class="img-box"><img src="images/201605/thumb_img/63_thumb_G_1462953395609.jpg" alt="自拍杆" class="goodsimg" /></div>
-  <div class="goods-brief"></div>
-    <div class="gos-title">自拍杆</div> 
-	<div class="prices">
-	        <font class="shop_s"><b>￥49元</b></font>
-    	</div>
-	 
-  </a>
-    <a class="goodsItem" href="goods.php?id=62"> <div  class="img-box"><img src="images/201605/thumb_img/62_thumb_G_1462952557730.jpg" alt="随身风扇" class="goodsimg" /></div>
-  <div class="goods-brief"></div>
-    <div class="gos-title">随身风扇</div> 
-	<div class="prices">
-	        <font class="shop_s"><b>￥20元</b></font>
-    	</div>
-	 
-  </a>
-    <a class="goodsItem" href="goods.php?id=61"> <div  class="img-box"><img src="images/201605/thumb_img/61_thumb_G_1462952376889.jpg" alt="视频" class="goodsimg" /></div>
-  <div class="goods-brief"></div>
-    <div class="gos-title">视频</div> 
-	<div class="prices">
-	        <font class="shop_s"><b>￥20元</b></font>
-    	</div>
-	 
-  </a>
     <div class="clear0"></div>
 </div>
         </div>
@@ -368,70 +906,6 @@ if (Object.prototype.toJSONString){
         <div class="goods-right">
             
 <div class="all_ms">
-    <a class="goodsItem" href="goods.php?id=72"> <div  class="img-box"><img src="images/201605/thumb_img/72_thumb_G_1462956048008.jpg" alt="智能相机" class="goodsimg" /></div>
-  <div class="goods-brief"></div>
-    <div class="gos-title">智能相机</div> 
-	<div class="prices">
-	        <font class="shop_s"><b>￥149元</b></font>
-    	</div>
-	 
-  </a>
-    <a class="goodsItem" href="goods.php?id=70"> <div  class="img-box"><img src="images/201605/thumb_img/70_thumb_G_1462955414561.jpg" alt="炫彩翻页保护套" class="goodsimg" /></div>
-  <div class="goods-brief"></div>
-    <div class="gos-title">炫彩翻页保护套</div> 
-	<div class="prices">
-	        <font class="shop_s"><b>￥39元</b></font>
-    	</div>
-	 
-  </a>
-    <a class="goodsItem" href="goods.php?id=69"> <div  class="img-box"><img src="images/201605/thumb_img/69_thumb_G_1462955300971.jpg" alt="平衡车" class="goodsimg" /></div>
-  <div class="goods-brief"></div>
-    <div class="gos-title">平衡车</div> 
-	<div class="prices">
-	        <font class="shop_s"><b>￥1999元</b></font>
-    	</div>
-	 
-  </a>
-    <a class="goodsItem" href="goods.php?id=68"> <div  class="img-box"><img src="images/201605/thumb_img/68_thumb_G_1462955204381.jpg" alt="透明超薄软胶保护套" class="goodsimg" /></div>
-  <div class="goods-brief"></div>
-    <div class="gos-title">透明超薄软胶保...</div> 
-	<div class="prices">
-	        <font class="shop_s"><b>￥19元</b></font>
-    	</div>
-	 
-  </a>
-    <a class="goodsItem" href="goods.php?id=64"> <div  class="img-box"><img src="images/201605/thumb_img/64_thumb_G_1462952811633.jpg" alt="运动相机" class="goodsimg" /></div>
-  <div class="goods-brief"></div>
-    <div class="gos-title">运动相机</div> 
-	<div class="prices">
-	        <font class="shop_s"><b>￥399元</b></font>
-    	</div>
-	 
-  </a>
-    <a class="goodsItem" href="goods.php?id=63"> <div  class="img-box"><img src="images/201605/thumb_img/63_thumb_G_1462953395609.jpg" alt="自拍杆" class="goodsimg" /></div>
-  <div class="goods-brief"></div>
-    <div class="gos-title">自拍杆</div> 
-	<div class="prices">
-	        <font class="shop_s"><b>￥49元</b></font>
-    	</div>
-	 
-  </a>
-    <a class="goodsItem" href="goods.php?id=62"> <div  class="img-box"><img src="images/201605/thumb_img/62_thumb_G_1462952557730.jpg" alt="随身风扇" class="goodsimg" /></div>
-  <div class="goods-brief"></div>
-    <div class="gos-title">随身风扇</div> 
-	<div class="prices">
-	        <font class="shop_s"><b>￥20元</b></font>
-    	</div>
-	 
-  </a>
-    <a class="goodsItem" href="goods.php?id=61"> <div  class="img-box"><img src="images/201605/thumb_img/61_thumb_G_1462952376889.jpg" alt="视频" class="goodsimg" /></div>
-  <div class="goods-brief"></div>
-    <div class="gos-title">视频</div> 
-	<div class="prices">
-	        <font class="shop_s"><b>￥20元</b></font>
-    	</div>
-	 
-  </a>
     <div class="clear0"></div>
 </div>
         </div>
@@ -444,70 +918,6 @@ if (Object.prototype.toJSONString){
         <div class="goods-right">
             
 <div class="all_ms">
-    <a class="goodsItem" href="goods.php?id=72"> <div  class="img-box"><img src="images/201605/thumb_img/72_thumb_G_1462956048008.jpg" alt="智能相机" class="goodsimg" /></div>
-  <div class="goods-brief"></div>
-    <div class="gos-title">智能相机</div> 
-	<div class="prices">
-	        <font class="shop_s"><b>￥149元</b></font>
-    	</div>
-	 
-  </a>
-    <a class="goodsItem" href="goods.php?id=70"> <div  class="img-box"><img src="images/201605/thumb_img/70_thumb_G_1462955414561.jpg" alt="炫彩翻页保护套" class="goodsimg" /></div>
-  <div class="goods-brief"></div>
-    <div class="gos-title">炫彩翻页保护套</div> 
-	<div class="prices">
-	        <font class="shop_s"><b>￥39元</b></font>
-    	</div>
-	 
-  </a>
-    <a class="goodsItem" href="goods.php?id=69"> <div  class="img-box"><img src="images/201605/thumb_img/69_thumb_G_1462955300971.jpg" alt="平衡车" class="goodsimg" /></div>
-  <div class="goods-brief"></div>
-    <div class="gos-title">平衡车</div> 
-	<div class="prices">
-	        <font class="shop_s"><b>￥1999元</b></font>
-    	</div>
-	 
-  </a>
-    <a class="goodsItem" href="goods.php?id=68"> <div  class="img-box"><img src="images/201605/thumb_img/68_thumb_G_1462955204381.jpg" alt="透明超薄软胶保护套" class="goodsimg" /></div>
-  <div class="goods-brief"></div>
-    <div class="gos-title">透明超薄软胶保...</div> 
-	<div class="prices">
-	        <font class="shop_s"><b>￥19元</b></font>
-    	</div>
-	 
-  </a>
-    <a class="goodsItem" href="goods.php?id=64"> <div  class="img-box"><img src="images/201605/thumb_img/64_thumb_G_1462952811633.jpg" alt="运动相机" class="goodsimg" /></div>
-  <div class="goods-brief"></div>
-    <div class="gos-title">运动相机</div> 
-	<div class="prices">
-	        <font class="shop_s"><b>￥399元</b></font>
-    	</div>
-	 
-  </a>
-    <a class="goodsItem" href="goods.php?id=63"> <div  class="img-box"><img src="images/201605/thumb_img/63_thumb_G_1462953395609.jpg" alt="自拍杆" class="goodsimg" /></div>
-  <div class="goods-brief"></div>
-    <div class="gos-title">自拍杆</div> 
-	<div class="prices">
-	        <font class="shop_s"><b>￥49元</b></font>
-    	</div>
-	 
-  </a>
-    <a class="goodsItem" href="goods.php?id=62"> <div  class="img-box"><img src="images/201605/thumb_img/62_thumb_G_1462952557730.jpg" alt="随身风扇" class="goodsimg" /></div>
-  <div class="goods-brief"></div>
-    <div class="gos-title">随身风扇</div> 
-	<div class="prices">
-	        <font class="shop_s"><b>￥20元</b></font>
-    	</div>
-	 
-  </a>
-    <a class="goodsItem" href="goods.php?id=61"> <div  class="img-box"><img src="images/201605/thumb_img/61_thumb_G_1462952376889.jpg" alt="视频" class="goodsimg" /></div>
-  <div class="goods-brief"></div>
-    <div class="gos-title">视频</div> 
-	<div class="prices">
-	        <font class="shop_s"><b>￥20元</b></font>
-    	</div>
-	 
-  </a>
     <div class="clear0"></div>
 </div>
         </div>
@@ -517,23 +927,7 @@ if (Object.prototype.toJSONString){
             
  
 <div id="show_hot_area" class="clearfix goodsBox all_mid all_ms">
-     <a class="goodsItem" href="goods.php?id=69"> <div  class="img-box"><img src="images/201605/thumb_img/69_thumb_G_1462955300971.jpg" alt="平衡车" class="goodsimg" /></div>
-  <div class="goods-brief"></div>
-    <div class="gos-title">平衡车</div> 
-  <div class="prices">
-          <font class="shop_s"><b>￥1999元</b></font>
-      </div>
-   
-  </a>
-   <a class="goodsItem" href="goods.php?id=70"> <div  class="img-box"><img src="images/201605/thumb_img/70_thumb_G_1462955414561.jpg" alt="炫彩翻页保护套" class="goodsimg" /></div>
-  <div class="goods-brief"></div>
-    <div class="gos-title">炫彩翻页保护套</div> 
-  <div class="prices">
-          <font class="shop_s"><b>￥39元</b></font>
-      </div>
-   
-  </a>
-   <a class="goodsItem" href="goods.php?id=63"> <div  class="img-box"><img src="images/201605/thumb_img/63_thumb_G_1462953395609.jpg" alt="自拍杆" class="goodsimg" /></div>
+     <a class="goodsItem" href="goods.php?id=63"> <div  class="img-box"><img src="images/201605/thumb_img/63_thumb_G_1462953395609.jpg" alt="自拍杆" class="goodsimg" /></div>
   <div class="goods-brief"></div>
     <div class="gos-title">自拍杆</div> 
   <div class="prices">
@@ -546,6 +940,22 @@ if (Object.prototype.toJSONString){
     <div class="gos-title">运动相机</div> 
   <div class="prices">
           <font class="shop_s"><b>￥399元</b></font>
+      </div>
+   
+  </a>
+   <a class="goodsItem" href="goods.php?id=70"> <div  class="img-box"><img src="images/201605/thumb_img/70_thumb_G_1462955414561.jpg" alt="炫彩翻页保护套" class="goodsimg" /></div>
+  <div class="goods-brief"></div>
+    <div class="gos-title">炫彩翻页保护套</div> 
+  <div class="prices">
+          <font class="shop_s"><b>￥39元</b></font>
+      </div>
+   
+  </a>
+   <a class="goodsItem" href="goods.php?id=69"> <div  class="img-box"><img src="images/201605/thumb_img/69_thumb_G_1462955300971.jpg" alt="平衡车" class="goodsimg" /></div>
+  <div class="goods-brief"></div>
+    <div class="gos-title">平衡车</div> 
+  <div class="prices">
+          <font class="shop_s"><b>￥1999元</b></font>
       </div>
    
   </a>
@@ -617,7 +1027,7 @@ if (Object.prototype.toJSONString){
   <div class="blank"></div>
   
 <div class="footer_info"> &copy; 2005-2018 青龙 版权所有，并保留所有权利。       <br />
-      <a href="http://xyunqi.com/products/ecshop?from=nav" target="_blank" style=" font-family:Verdana; font-size:11px;">Powered&nbsp;by&nbsp;<strong><span style="color: #3366FF">ECShop</span>&nbsp;<span style="color: #FF9966">v4.0.0</span></strong></a>&nbsp;<a href="http://www.ecshop.com/license.php?product=ecshop_b2c&url=http%3A%2F%2Flocalhost%2Fecshop%2F" target="_blank"
+      Power By <a href="#">青龙工作室</a><a href="http://www.ecshop.com/license.php?product=ecshop_b2c&url=http%3A%2F%2Flocalhost%2Fecshop%2F" target="_blank"
 >&nbsp;&nbsp;Licensed</a><br />
             <div>ICP备案证书号:<a href="http://www.miibeian.gov.cn/" target="_blank"></a></div>
     </div>

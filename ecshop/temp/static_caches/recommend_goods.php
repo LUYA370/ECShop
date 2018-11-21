@@ -4,32 +4,27 @@ $data = array (
   array (
     0 => 
     array (
-      'goods_id' => '69',
+      'goods_id' => '70',
       'sort_order' => '100',
     ),
     1 => 
     array (
-      'goods_id' => '70',
+      'goods_id' => '69',
       'sort_order' => '100',
     ),
     2 => 
     array (
-      'goods_id' => '72',
+      'goods_id' => '9',
       'sort_order' => '100',
     ),
     3 => 
     array (
-      'goods_id' => '1',
+      'goods_id' => '8',
       'sort_order' => '100',
     ),
     4 => 
     array (
-      'goods_id' => '8',
-      'sort_order' => '100',
-    ),
-    5 => 
-    array (
-      'goods_id' => '9',
+      'goods_id' => '72',
       'sort_order' => '100',
     ),
   ),
@@ -37,22 +32,22 @@ $data = array (
   array (
     0 => 
     array (
-      'goods_id' => '69',
+      'goods_id' => '70',
       'sort_order' => '100',
     ),
     1 => 
     array (
-      'goods_id' => '70',
+      'goods_id' => '32',
       'sort_order' => '100',
     ),
     2 => 
     array (
-      'goods_id' => '72',
+      'goods_id' => '69',
       'sort_order' => '100',
     ),
     3 => 
     array (
-      'goods_id' => '1',
+      'goods_id' => '9',
       'sort_order' => '100',
     ),
     4 => 
@@ -62,12 +57,7 @@ $data = array (
     ),
     5 => 
     array (
-      'goods_id' => '9',
-      'sort_order' => '100',
-    ),
-    6 => 
-    array (
-      'goods_id' => '32',
+      'goods_id' => '72',
       'sort_order' => '100',
     ),
   ),
@@ -75,22 +65,22 @@ $data = array (
   array (
     0 => 
     array (
-      'goods_id' => '69',
+      'goods_id' => '63',
       'sort_order' => '100',
     ),
     1 => 
     array (
-      'goods_id' => '70',
+      'goods_id' => '64',
       'sort_order' => '100',
     ),
     2 => 
     array (
-      'goods_id' => '63',
+      'goods_id' => '70',
       'sort_order' => '100',
     ),
     3 => 
     array (
-      'goods_id' => '64',
+      'goods_id' => '69',
       'sort_order' => '100',
     ),
     4 => 
@@ -101,13 +91,13 @@ $data = array (
   ),
   'brand' => 
   array (
-    69 => '仓品',
-    70 => '仓品',
-    72 => '仓品',
     63 => '仓品',
     64 => '仓品',
+    70 => '仓品',
+    69 => '仓品',
     68 => '仓品',
     8 => '飞利浦',
+    72 => '仓品',
   ),
 );
 ?>

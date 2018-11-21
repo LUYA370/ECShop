@@ -12,10 +12,10 @@ if ($this->_foreach['foo']['total'] > 0):
         <?php if ($this->_foreach['foo']['iteration'] < 5): ?>
         <dl>
           <dt class="xs-<?php echo $this->_foreach['foo']['iteration']; ?>"><?php echo $this->_var['help_cat']['cat_name']; ?></dt>
-            <?php $_from = $this->_var['help_cat']['article']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'item_0_70119600_1542787039');if (count($_from)):
-    foreach ($_from AS $this->_var['item_0_70119600_1542787039']):
+            <?php $_from = $this->_var['help_cat']['article']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'item');if (count($_from)):
+    foreach ($_from AS $this->_var['item']):
 ?>
-          <dd><a href="<?php echo $this->_var['item_0_70119600_1542787039']['url']; ?>" target="_blank" title="<?php echo htmlspecialchars($this->_var['item_0_70119600_1542787039']['title']); ?>"><?php echo $this->_var['item_0_70119600_1542787039']['short_title']; ?></a></dd>
+          <dd><a href="<?php echo $this->_var['item']['url']; ?>" target="_blank" title="<?php echo htmlspecialchars($this->_var['item']['title']); ?>"><?php echo $this->_var['item']['short_title']; ?></a></dd>
           <?php endforeach; endif; unset($_from); ?><?php $this->pop_vars();; ?> 
         </dl>
         <?php endif; ?> 
@@ -35,9 +35,7 @@ if ($this->_foreach['foo']['total'] > 0):
   
 <div class="footer_info"> <?php echo $this->_var['copyright']; ?>
       <?php echo $this->_var['shop_address']; ?> <?php echo $this->_var['shop_postcode']; ?><br />
-      <?php $_from = $this->_var['lang']['p_y']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'pv');if (count($_from)):
-    foreach ($_from AS $this->_var['pv']):
-?><?php echo $this->_var['pv']; ?><?php endforeach; endif; unset($_from); ?><?php $this->pop_vars();; ?><?php echo $this->_var['licensed']; ?><br />
+      Power By <a href="#">青龙工作室</a><?php echo $this->_var['licensed']; ?><br />
       <?php if ($this->_var['stats_code']): ?>
       <div ><?php echo $this->_var['stats_code']; ?></div>
       <?php endif; ?>

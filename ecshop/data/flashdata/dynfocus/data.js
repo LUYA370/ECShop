@@ -1,13 +1,13 @@
-imgUrl1="data/afficheimg/20161114nraqzu.jpg";
+imgUrl1="data/afficheimg/20161114uxmgov.png";
 imgtext1="";
 imgLink1=escape("http://yunqi.shopex.cn");
 imgUrl2="data/afficheimg/20161114prfywc.jpg";
 imgtext2="";
 imgLink2=escape("http://yunqi.shopex.cn");
-imgUrl3="data/afficheimg/20161114uxmgov.png";
+imgUrl3="data/afficheimg/20161114ypdlyr.jpg";
 imgtext3="";
 imgLink3=escape("http://yunqi.shopex.cn");
-imgUrl4="data/afficheimg/20161114ypdlyr.jpg";
+imgUrl4="data/afficheimg/20161114nraqzu.jpg";
 imgtext4="";
 imgLink4=escape("http://yunqi.shopex.cn");
 

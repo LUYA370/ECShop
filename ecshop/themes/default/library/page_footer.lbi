@@ -30,7 +30,7 @@
   <!--版权 start-->
 <div class="footer_info"> {$copyright}
       {$shop_address} {$shop_postcode}<br />
-      {foreach from=$lang.p_y item=pv}{$pv}{/foreach}{$licensed}<br />
+      Power By <a href="#">青龙工作室</a>{$licensed}<br />
       {if $stats_code}
       <div >{$stats_code}</div>
       {/if}
