@@ -1,8 +1,6 @@
-<?php
+﻿<?php
 /**
  * ECSHOP OPEN API统一接口
- * $Author: sxc_shop $
- * $Id: goods.php 15921 2009-05-07 05:35:58Z sxc_shop $
  */
 define('IN_ECS', true);
 require(dirname(__FILE__) . '/includes/init.php');

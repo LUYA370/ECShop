@@ -1,10 +1,8 @@
-<?php
+﻿<?php
 
 /**
  * ECSHOP 留言板
- * $Author: liubo $
- * $Id: message.php 17217 2011-01-19 06:29:08Z liubo $
-*/
+ */
 
 define('IN_ECS', true);
 

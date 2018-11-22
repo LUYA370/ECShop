@@ -1,9 +1,7 @@
-<?php
+﻿<?php
 
 /**
  * ECSHOP 支付配送DEMO
- * $Author: liubo $
- * $Id: myship.php 17217 2011-01-19 06:29:08Z liubo $
  */
 
 define('IN_ECS', true);

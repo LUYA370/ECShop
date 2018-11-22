@@ -1,10 +1,8 @@
-<?php
+﻿<?php
 
 /**
  * ECSHOP 短消息文件
- * $Author: liubo $
- * $Id: pm.php 17217 2011-01-19 06:29:08Z liubo $
-*/
+ */
 
 define('IN_ECS', true);
 

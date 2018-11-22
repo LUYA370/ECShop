@@ -1,9 +1,7 @@
-<?php
+﻿<?php
 
 /**
  * 网银在线自动对账接口
- * $Author: liubo $
- * $Id: chinabank_receive.php 17063 2010-11-03 06:35:46Z liubo $
  */
 
 define('IN_ECS', true);

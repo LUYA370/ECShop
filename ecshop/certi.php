@@ -1,10 +1,8 @@
-<?php
+﻿<?php
 
 /**
  * ECSHOP 证书反查文件
- * $Author: wangleisvn $
- * $Id: certi.php 16075 2009-05-22 02:19:40Z wangleisvn $
-*/
+ */
 
 define('IN_ECS', true);
 

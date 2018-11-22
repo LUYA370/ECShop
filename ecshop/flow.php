@@ -1,9 +1,7 @@
-<?php
+﻿<?php
 
 /**
  * ECSHOP 购物流程
- * $Author: douqinghua $
- * $Id: flow.php 17218 2011-01-24 04:10:41Z douqinghua $
  */
 
 define('IN_ECS', true);

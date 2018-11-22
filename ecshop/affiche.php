@@ -1,10 +1,8 @@
-<?php
+﻿<?php
 
 /**
  * ECSHOP 广告处理文件
- * $Author: liubo $
- * $Id: affiche.php 17217 2011-01-19 06:29:08Z liubo $
-*/
+ */
 
 define('IN_ECS', true);
 define('INIT_NO_SMARTY', true);

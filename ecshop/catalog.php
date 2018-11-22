@@ -1,10 +1,8 @@
-<?php
+﻿<?php
 
 /**
  * ECSHOP 列出所有分类及品牌
- * $Author: liubo $
- * $Id: catalog.php 17217 2011-01-19 06:29:08Z liubo $
-*/
+ */
 
 define('IN_ECS', true);
 

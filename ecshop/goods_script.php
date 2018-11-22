@@ -1,10 +1,7 @@
-<?php
+﻿<?php
 
 /**
- * ECSHOP 生成商品列表
- * $Author: liubo $
- * $Id: goods_script.php 17217 2011-01-19 06:29:08Z liubo $
- */
+ * ECSHOP 生成商品列表*/
 
 define('IN_ECS', true);
 define('INIT_NO_USERS', true);

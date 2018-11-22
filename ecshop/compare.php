@@ -1,10 +1,8 @@
-<?php
+﻿<?php
 
 /**
  * ECSHOP 商品比较程序
- * $Author: liubo $
- * $Id: compare.php 17217 2011-01-19 06:29:08Z liubo $
-*/
+ */
 
 define('IN_ECS', true);
 

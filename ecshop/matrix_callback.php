@@ -1,10 +1,8 @@
-<?php
+﻿<?php
 
 /**
  * ECSHOP 绑定矩阵callback文件
- * $Author: wangleisvn $
- * $Id: certificate.php 16075 2009-05-22 02:19:40Z wangleisvn $
-*/
+ */
 
 define('IN_ECS', true);
 

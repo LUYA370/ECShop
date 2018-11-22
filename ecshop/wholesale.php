@@ -1,12 +1,7 @@
-<?php
+﻿<?php
 
 /**
  * ECSHOP 批发前台文件
- * @author:     scott ye <scott.yell@gmail.com>
- * @version:    v2.x
- * ---------------------------------------------
- * $Author: yehuaixiao $
- * $Id: wholesale.php 17218 2011-01-24 04:10:41Z yehuaixiao $
  */
 
 define('IN_ECS', true);

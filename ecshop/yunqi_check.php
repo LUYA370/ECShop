@@ -1,10 +1,8 @@
-<?php
+﻿<?php
 
 /**
  * ECSHOP 获取证书callback和反查
- * $Author: wangleisvn $
- * $Id: yq_check.php 16075 2009-05-22 02:19:40Z wangleisvn $
-*/
+ */
 
 define('IN_ECS', true);
 require(dirname(__FILE__) . '/includes/init.php');

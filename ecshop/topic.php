@@ -1,11 +1,8 @@
-<?php
+﻿<?php
 
 
 /**
  * ECSHOP 专题前台
- * @author:     webboy <laupeng@163.com>
- * @version:    v2.1
- * ---------------------------------------------
  */
 
 define('IN_ECS', true);

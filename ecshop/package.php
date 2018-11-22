@@ -1,9 +1,7 @@
-<?php
+﻿<?php
 
 /**
  * ECSHOP 超值礼包列表
- * $Author: liubo $
- * $Id: package.php 16056 2009-05-21 05:44:14Z liubo $
  */
 
 define('IN_ECS', true);
